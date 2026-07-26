@@ -64,7 +64,7 @@ Shows delivery performance, average shipping time, and on-time delivery rate. It
 
 Compares actual profit with planned budget values, making it easy to see where business performance exceeded or fell below expectations.
 
-*(All dashboard screenshots are available in the **screenshots** folder.)*
+
 
 ---
 
@@ -96,14 +96,11 @@ Compares actual profit with planned budget values, making it easy to see where b
 ## 📁 Project Structure
 
 ```text
-skymart-powerbi-dashboard/
-├── SkyMart_Dashboard.pbix
+Sky-Mart-PowerBI-Dashboard/
+├── skymart_project.pbix
 ├── README.md
 ├── screenshots/
-├── DAX_measures.md
-├── data_quality_notes.md
-├── SkyMart_Theme.json
-└── DAX.pdf
+└── DAX_measures.md
 ```
 
 ---
