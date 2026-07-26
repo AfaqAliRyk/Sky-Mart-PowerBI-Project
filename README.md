@@ -36,35 +36,29 @@ This page provides a quick summary of the company's performance, including total
 
 ### 2. Sales Analysis
 
-![Sales Analysis](screenshots/sales_analysis.png)
+![Sales Analysis](Screenshots/sales_analysis.png)
 
 Shows monthly sales and profit trends, making it easy to identify increases or decreases over time. It also highlights the best-performing regions, stores, and product categories.
 
-### 3. Sales Drilldown
+### 3. Returns Analysis
 
-![Sales Drilldown](screenshots/sales_drilldown.png)
-
-Allows users to explore sales in more detail by drilling down into regions, categories, brands, and individual products to understand where revenue comes from.
-
-### 4. Returns Analysis
-
-![Returns Analysis](screenshots/returns_analysis.png)
+![Returns Analysis](Screenshots/returns_analysis.png)
 
 Displays return rates by category and brand, along with the most common return reasons and product conditions. This helps identify products that may need quality improvements.
 
-### 5. Inventory Dashboard
+### 4. Inventory Dashboard
 
-![Inventory Dashboard](screenshots/inventory_dashboard.png)
+![Inventory Dashboard](Screenshots/inventory_dashboard.png)
 
 Tracks inventory levels and identifies products that are overstocked, understocked, or at normal stock levels. This helps improve inventory planning and reduce unnecessary costs.
 
-### 6. Shipment Operations & Customer Satisfaction
+### 5. Shipment Operations & Customer Satisfaction
 
-![Shipment Operations & Customer Satisfaction](screenshots/shipment_ops_n_cust_sat_analysis.png)
+![Shipment Operations & Customer Satisfaction](Screenshots/shipment_ops_n_cust_sat_analysis.png)
 
 Shows delivery performance, average shipping time, and on-time delivery rate. It also includes customer survey results to compare satisfaction across different regions and service areas.
 
-### 7. Budget vs Actual
+### 6. Budget vs Actual
 
 ![Budget vs Actual](Screenshots/budget_vs_actual.png)
 
