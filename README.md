@@ -66,7 +66,7 @@ Shows delivery performance, average shipping time, and on-time delivery rate. It
 
 ### 7. Budget vs Actual
 
-![Budget vs Actual](screenshots/budget_vs_actual.png)
+![Budget vs Actual](Screenshots/budget_vs_actual.png)
 
 Compares actual profit with planned budget values, making it easy to see where business performance exceeded or fell below expectations.
 
