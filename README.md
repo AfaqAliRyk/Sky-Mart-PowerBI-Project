@@ -30,7 +30,7 @@ This dashboard brings all that information together into one report, making it e
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 This page provides a quick summary of the company's performance, including total sales, total profit, return rate, and on-time delivery percentage. It gives users a clear overview of the business in one place.
 
