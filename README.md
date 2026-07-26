@@ -110,9 +110,10 @@ skymart-powerbi-dashboard/
 
 ## 🚀 Getting Started
 
-Download the Power BI project file and open it in **Power BI Desktop** to explore the dashboard. You can also view the DAX documentation for the calculations used in the report.
-![Power BI File](skymart_project.pbix)
----
+Download the **Power BI** project file and open it in **Power BI Desktop** to explore the dashboard.
+
+📊 **[Power BI Dashboard (skymart_project.pbix)](skymart_project.pbix)**
+
 
 ## 📄 License
 
