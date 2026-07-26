@@ -1,6 +1,6 @@
 # SkyMart Power BI Dashboard
 
-A complete Business Intelligence dashboard created in **Power BI Desktop** using **Power Query** for data cleaning and **DAX** for calculations. This project combines data from different Excel and CSV files into one interactive dashboard to help analyse business performance.
+A complete Business Intelligence dashboard created in **Power BI Desktop** using **Power Query** for data cleaning and **DAX** for calculations. This project combines data from multiple Excel and CSV files into a single interactive dashboard to help analyse business performance.
 
 ---
 
@@ -117,7 +117,7 @@ skymart-powerbi-dashboard/
 ## 🚀 Getting Started
 
 Download the Power BI project file and open it in **Power BI Desktop** to explore the dashboard. You can also view the DAX documentation for the calculations used in the report.
-
+![Power BI File](.filename.pbix)
 ---
 
 ## 📄 License
