@@ -2,6 +2,9 @@
 
 A complete Business Intelligence dashboard created in **Power BI Desktop** using **Power Query** for data cleaning and **DAX** for calculations. This project combines data from multiple Excel and CSV files into a single interactive dashboard to help analyse business performance.
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 ---
 
 ## 📌 Project Overview
