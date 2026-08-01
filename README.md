@@ -109,6 +109,14 @@ Download the **Power BI** project file and open it in **Power BI Desktop** to ex
 
 📊 **[Power BI Dashboard (skymart_project.pbix)](skymart_project.pbix)**
 
+---
+
+## 👤 Author
+
+**Afaq** — Data Analytics enthusiast, transitioning career focus into Excel & Power BI.
+Connect on [LinkedIn](https://www.linkedin.com/in/iamafaqali)
+
+---
 
 ## 📄 License
 
