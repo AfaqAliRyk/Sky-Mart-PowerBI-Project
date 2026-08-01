@@ -52,11 +52,6 @@ Displays return rates by category and brand, along with the most common return r
 
 Tracks inventory levels and identifies products that are overstocked, understocked, or at normal stock levels. This helps improve inventory planning and reduce unnecessary costs.
 
-### 5. Shipment Operations & Customer Satisfaction
-
-![Shipment Operations & Customer Satisfaction](Screenshots/shipment_ops_n_cust_sat_analysis.png)
-
-Shows delivery performance, average shipping time, and on-time delivery rate. It also includes customer survey results to compare satisfaction across different regions and service areas.
 
 ### 6. Budget vs Actual
 
